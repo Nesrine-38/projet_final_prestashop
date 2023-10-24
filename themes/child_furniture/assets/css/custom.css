@@ -1,0 +1,15 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+ #header{ background: rgb(145, 228, 247) !important; }
+ .header_logo_center{
+    width: 50px;
+    height: 50px;
+ }
+.des_pos_right .ybc_widget_link_img{
+    height: 400px;
+}
+#new_products .owl-stage-outer{
+    align-items: center;
+}

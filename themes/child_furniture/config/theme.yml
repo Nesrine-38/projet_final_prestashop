@@ -1,0 +1,6 @@
+parent: furniture
+name: child_furniture
+display_name: Child theme of furniture's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
